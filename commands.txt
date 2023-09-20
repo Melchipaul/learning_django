@@ -1,0 +1,15 @@
+Commands to use:
+1. Create an virtual environnment
+=> python -m venv learning_django
+2. Activate the virtual environnment:
+=> source learning_django/Scripts/activate
+3. Deactivate the virtual environnment
+=> deactivate
+4. Install django: 
+=> pip install Django
+5. Create Django project
+=> django-admin startproject MyApp
+6. Starting a development Server
+=> python manage.py runserver
+7. Create App:
+=> python manage.py startapp challenges
