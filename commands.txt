@@ -13,3 +13,9 @@ Commands to use:
 => python manage.py runserver
 7. Create App:
 => python manage.py startapp challenges
+8. Create migrations:
+=> python manage.py makemigrations
+9. Populate database with migrations:
+=> python manage.py migrate
+10. Using django shell
+=> python manage.py shell
